@@ -1,9 +1,9 @@
 {
-  "name": "ComingInHot",
-  "version_number": "1.0.0",
+  "name": "ComingInHotMod",
+  "version_number": "1.0",
   "website_url": "https://github.com/codyabraham/ComingInHotMod",
-  "description": "Adds Jack Black's 'Coming in Hot' sound from The Minecraft Movie as the tumble sound effect.",
+  "description": "A mod that replaces the tumble sound with Jack Black saying 'Coming in Hot!' from The Minecraft Movie.",
   "dependencies": [
-    "BepInEx-BepInEx-5.4.0"
+    "BepInEx-BepInExPack-5.4.2100"
   ]
 }
